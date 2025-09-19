@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Fichiers temporaires / logs
+*.log
+*.tmp
+*.bak
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
